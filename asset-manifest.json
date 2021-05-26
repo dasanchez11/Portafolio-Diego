@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portafolio-Diego/static/css/main.e924db61.chunk.css",
+    "main.js": "/Portafolio-Diego/static/js/main.6e3141a4.chunk.js",
+    "main.js.map": "/Portafolio-Diego/static/js/main.6e3141a4.chunk.js.map",
+    "runtime-main.js": "/Portafolio-Diego/static/js/runtime-main.d215eac0.js",
+    "runtime-main.js.map": "/Portafolio-Diego/static/js/runtime-main.d215eac0.js.map",
+    "static/js/2.de7bb634.chunk.js": "/Portafolio-Diego/static/js/2.de7bb634.chunk.js",
+    "static/js/2.de7bb634.chunk.js.map": "/Portafolio-Diego/static/js/2.de7bb634.chunk.js.map",
+    "index.html": "/Portafolio-Diego/index.html",
+    "static/css/main.e924db61.chunk.css.map": "/Portafolio-Diego/static/css/main.e924db61.chunk.css.map",
+    "static/js/2.de7bb634.chunk.js.LICENSE.txt": "/Portafolio-Diego/static/js/2.de7bb634.chunk.js.LICENSE.txt",
+    "static/media/dogBreed.319619fb.png": "/Portafolio-Diego/static/media/dogBreed.319619fb.png",
+    "static/media/ecommerce.757393b9.png": "/Portafolio-Diego/static/media/ecommerce.757393b9.png",
+    "static/media/memories.08f7945d.png": "/Portafolio-Diego/static/media/memories.08f7945d.png",
+    "static/media/portafolioEdo.ec03a66b.png": "/Portafolio-Diego/static/media/portafolioEdo.ec03a66b.png",
+    "static/media/redux.b3b939c6.png": "/Portafolio-Diego/static/media/redux.b3b939c6.png",
+    "static/media/roboFriends.073e7c27.png": "/Portafolio-Diego/static/media/roboFriends.073e7c27.png",
+    "static/media/smartBrain.9cc82a26.png": "/Portafolio-Diego/static/media/smartBrain.9cc82a26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d215eac0.js",
+    "static/js/2.de7bb634.chunk.js",
+    "static/css/main.e924db61.chunk.css",
+    "static/js/main.6e3141a4.chunk.js"
+  ]
+}
